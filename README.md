@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Heya, I'm Samuel!
+**Technical Project Manager | AI Automation Specialist | Full-Stack Developer**
 
-<!--
-**SMZL2024/smzl2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 20 something Computer Science student (UFG–ASU) who bridges the gap between high-level project management and deep technical execution. While I lead projects and structure workflows, I still go toe-to-toe with the code and systems architecture. My focus is on eliminating manual bottlenecks through AI and automation while building scalable applications.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Languages & Paradigms:** Python, Java, C++, C, JavaScript, HTML, CSS
+* **Web & Frameworks:** Angular, Node.js
+* **AI & Automation:** Zapier, n8n, Local LLMs, Prompt Engineering, AI Agents
+* **Databases & Infrastructure:** SQL, Cisco, CompTIA concepts, Linux/macOS, Bash
+* **Project Management:** Advanced Notion Architecture, Trello, Workflow Design
+
+### 🚀 Current Focus
+
+* 🎓 **B.S. in Computer Science** (UFG – ASU Dual-Degree, Expected 2029)
+* ⚙️ **Managing technical projects** while actively coding AI-driven tools and dashboards
+* 🌐 Building full-stack web applications and scalable database structures
+
+### 📫 Let's Connect
+
+* **Email:** [samuelmasferrer.enquiries@proton.me](mailto:samuelmasferrer.enquiries@proton.me)
+* **Location:** San Salvador, El Salvador || London, United Kingdom
